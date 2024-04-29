@@ -1,0 +1,14 @@
+.fullbody{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divbody{
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-top: 15px;
+  width: 700px;
+  background-color: bisque;
+  padding: 10px;
+}

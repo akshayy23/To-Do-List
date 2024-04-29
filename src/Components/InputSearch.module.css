@@ -1,0 +1,15 @@
+.mainHead{
+  margin-top: 20px;
+  display: flex;
+  justify-content:space-between;
+}
+
+.namebox{
+  text-align: center;
+  width: 300px;
+}
+
+.point{
+  width: 85px;
+}
+

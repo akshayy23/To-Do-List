@@ -1,0 +1,23 @@
+
+
+.inputline{
+  margin-top: 20px;
+  display: flex;
+  justify-content:space-between;
+}
+.namebox{
+  width: 300px;
+  margin-left: 10px;
+  
+}
+.datebox{
+  width: 141px;
+  margin-left: 77px;
+  padding: 0%;
+  text-align: left;
+}
+.point{
+  width: 85px;
+  float: right;
+ 
+}
